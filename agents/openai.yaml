@@ -1,0 +1,4 @@
+interface:
+  display_name: "Extract Images to WebP"
+  short_description: "Extract images from folders and save them as WebP."
+  default_prompt: "Extract all image files from a source folder, flatten them into a new output folder, convert them to WebP without resizing, and keep filenames stable unless duplicates require a suffix."
